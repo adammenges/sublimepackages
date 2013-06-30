@@ -1,4 +1,4 @@
 sublimepackages
 ===============
 
-Repo of sublime packages.
+Repo of sublime package information, user prefs.
