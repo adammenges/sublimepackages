@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"ObjC2RubyMotion",
 		"Package Control"
 	]
 }
