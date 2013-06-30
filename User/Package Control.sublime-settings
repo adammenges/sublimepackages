@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Emmet",
 		"Package Control"
 	]
 }
