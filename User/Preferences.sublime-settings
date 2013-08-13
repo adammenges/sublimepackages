@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"draw_white_space": "selection",
 	"font_size": 14.0,
 	"ignored_packages":
@@ -9,5 +9,7 @@
 	"scroll_past_end": true,
 	"tabSize": 2,
 	"translateTabsToSpaces": true,
-	"useTabStops": true
+	"useTabStops": true,
+	"wordWrap": true,
+	"word_wrap": true
 }
